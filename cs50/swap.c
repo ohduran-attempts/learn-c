@@ -7,7 +7,6 @@ void swap(int *a , int *b){
   *b = tmp;
 }
 
-
 int main(){
 
   int x = 1;
