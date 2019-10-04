@@ -11,9 +11,8 @@ int main() {
   int* q;
 
 
-
-  p = &a; // set p to refer to a
   // *p = a; // you can't do that! p is pointing to NOWHERE yet
+  p = &a; // set p to refer to a
 
   q = &b; // set q to refer to b
 
